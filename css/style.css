@@ -1,0 +1,25 @@
+#navigation {
+    display: flex;
+}
+
+#navigation a {
+    text-decoration: none;
+    padding: 8px;
+}
+
+#navigation:hover {
+    color: blueviolet;
+}
+
+/*Input*/
+.inputsec {
+    display: flex;
+    flex-direction: column;
+}
+
+.input-field {
+    outline: none;
+    border-radius: 8px;
+    border: solid black;
+    padding: 8px; 
+}
